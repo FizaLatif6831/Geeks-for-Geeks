@@ -21,8 +21,6 @@ class Solution
     public:
     void merge(int arr[], int l, int mid, int r)
     {
-        
-        
         int left=l;
         int right=mid+1;
         int size=r-l+1;
